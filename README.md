@@ -1,3 +1,3 @@
-# siddheshDma
+# hetDma
 
 DMA App
